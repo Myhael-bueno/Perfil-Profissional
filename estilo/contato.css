@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+	background-color: black;
+}
+
+header h1{
+	color: white;
+	text-align: center;
+	font-size: 3em;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.facebook p{
+	color: white;
+	font-size: 1.3em;
+}
+
+
+.facebook img{
+	width: 500px;
+}
+
+section.facebook{
+	float: left ;
+}
