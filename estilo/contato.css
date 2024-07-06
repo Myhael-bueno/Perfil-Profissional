@@ -4,23 +4,20 @@ body{
 	background-color: black;
 }
 
-header h1{
-	color: white;
-	text-align: center;
-	font-size: 3em;
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+img.facebook{
+	width: 30%;
 }
 
-.facebook p{
-	color: white;
-	font-size: 1.3em;
+img.Github{
+	width: 32%;
 }
 
-
-.facebook img{
-	width: 500px;
+img.Linkedin{
+	width: 47%;
+	height: 200px;
 }
 
-section.facebook{
-	float: left ;
+img.Twitter{
+	width: 30%;
+	height: 200px;
 }
